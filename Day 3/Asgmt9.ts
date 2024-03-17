@@ -1,0 +1,3 @@
+// Q: Add comments in your code...
+// I use comments in every code so I am not doing this seperately
+// and even this all is also a comment
