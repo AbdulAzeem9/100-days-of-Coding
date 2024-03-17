@@ -1,0 +1,1 @@
+console.log('Andrew Tate once said, "If you are not making money while you sleep, You will work until you die"'); //this is simply written
