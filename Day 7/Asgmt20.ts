@@ -1,0 +1,2 @@
+let petAnimals: string[] = ["Cats", "Dogs", "Goats", "Parrots"];// This saves the Animal names
+console.log(`My favourite Pet Animals are ${petAnimals}`); // This shows Animal names with the given sentense
